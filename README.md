@@ -1,4 +1,5 @@
 # Laptop Price Predictor
+ ![App Screenshot](lap_img.png)
 
 > This project is a Laptop Price Predictor built using Machine Learning.
 It takes different laptop features as input like RAM, processor, storage, screen size, and more, and predicts the estimated price.
